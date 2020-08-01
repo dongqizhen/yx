@@ -1,0 +1,203 @@
+.el-breadcrumb__inner,
+.el-breadcrumb__inner a {
+  font-weight: 400 !important;
+}
+
+.el-upload input[type="file"] {
+  display: none !important;
+}
+
+.el-upload__input {
+  display: none;
+}
+
+.cell .el-tag {
+  margin-right: 0px;
+}
+
+.small-padding .cell {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.fixed-width .el-button--mini {
+  padding: 7px 10px;
+  width: 60px;
+}
+
+.status-col .cell {
+  padding: 0 10px;
+  text-align: center;
+}
+
+.status-col .cell .el-tag {
+  margin-right: 0px;
+}
+
+.el-dialog {
+  -webkit-transform: none;
+          transform: none;
+  left: 0;
+  position: relative;
+  margin: 0 auto;
+}
+
+.upload-container .el-upload {
+  width: 100%;
+}
+
+.upload-container .el-upload .el-upload-dragger {
+  width: 100%;
+  height: 200px;
+}
+
+.el-dropdown-menu a {
+  display: block;
+}
+
+.el-range-editor.el-input__inner {
+  display: -webkit-inline-box !important;
+  display: -ms-inline-flexbox !important;
+  display: inline-flex !important;
+}
+
+.el-range-separator {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+.el-select-dropdown .el-select-dropdown__item.hover {
+  background: linear-gradient(135deg, #51c3ff 0%, #2a94ff 100%);
+  color: #fff;
+  border-radius: 6px;
+}
+
+.el-radio {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.el-radio .el-radio__input {
+  height: 30px;
+  width: 30px;
+  border: 1px solid #eaeaea;
+  border-radius: 30px;
+  background: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.el-radio .el-radio__input:not(.is-checked) .el-radio__inner {
+  display: none;
+}
+
+.el-radio .el-radio__input .el-radio__inner {
+  width: 18px;
+  height: 18px;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #51c3ff 0%, #2a94ff 100%);
+  -webkit-box-shadow: 0px 0px 4px 0px rgba(94, 181, 255, 0.5);
+          box-shadow: 0px 0px 4px 0px rgba(94, 181, 255, 0.5);
+}
+
+.el-radio .el-radio__input .el-radio__inner::after {
+  display: none;
+}
+
+.el-radio.is-checked .el-radio__label {
+  color: #1890ff;
+}
+
+.el-radio .el-radio__label {
+  font-size: 20px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: #505a64;
+}
+
+.el-form-item {
+  margin-bottom: 36px;
+}
+
+.el-form-item.letter_space > label {
+  letter-spacing: 15px;
+}
+
+.el-form-item.letter_space_3 > label {
+  letter-spacing: 2px;
+}
+
+.el-form-item__label {
+  font-size: 17px;
+  font-family: PingFangSC-Semibold, PingFang SC;
+  font-weight: 600;
+  color: #505a64;
+}
+
+.el-form-item__label::before {
+  content: "" !important;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 70px;
+  top: 8px;
+  background: #ff7070;
+  border-radius: 6px;
+}
+
+.el-rate {
+  margin-left: 9px;
+}
+
+.el-rate .el-rate__item .el-rate__icon {
+  font-size: 20px;
+}
+
+.el-rate .el-rate__text {
+  font-size: 18px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+}
+
+.el-button {
+  border: none;
+  font-size: 16px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: white;
+}
+
+.el-button.del {
+  width: 100px;
+  height: 30px;
+  background: linear-gradient(135deg, #ff9a9a 0%, #fc5d40 100%);
+  -webkit-box-shadow: 0px 8px 10px 0px rgba(255, 183, 183, 0.5);
+          box-shadow: 0px 8px 10px 0px rgba(255, 183, 183, 0.5);
+}
+
+.el-button.edit {
+  width: 100px;
+  height: 30px;
+  background: linear-gradient(135deg, #94f1ef 0%, #00c7f7 100%);
+  -webkit-box-shadow: 0px 8px 10px 0px rgba(191, 248, 242, 0.71);
+          box-shadow: 0px 8px 10px 0px rgba(191, 248, 242, 0.71);
+}
+
+.el-button.report {
+  width: 100px;
+  height: 30px;
+  background: linear-gradient(135deg, #4eaaff 0%, #2951ff 100%);
+  -webkit-box-shadow: 0px 8px 10px 0px #bddeff;
+          box-shadow: 0px 8px 10px 0px #bddeff;
+}

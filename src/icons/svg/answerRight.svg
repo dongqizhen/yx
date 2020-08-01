@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="28px" viewBox="0 0 80 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>矩形备份 40</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="43.875%" x2="100%" y2="56.125%" id="linearGradient-1">
+            <stop stop-color="#94F1EF" offset="0%"></stop>
+            <stop stop-color="#00C7F7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="班级管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程详情-预习-详情" transform="translate(-239.000000, -1492.000000)">
+            <g id="矩形备份-40" transform="translate(239.000000, 1492.000000)">
+                <path d="M0,0 L66,0 C73.7319865,-1.42034288e-15 80,6.2680135 80,14 C80,21.7319865 73.7319865,28 66,28 L0,28 L0,28 L0,0 Z" id="矩形备份-39" fill="url(#linearGradient-1)"></path>
+                <text id="答对" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="20" y="20">答对</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

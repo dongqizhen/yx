@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="70px" viewBox="0 0 69 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>ppt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 68.4729917 0 68.4729917 69.3859649 0 69.3859649"></polygon>
+        <linearGradient x1="9.62580312%" y1="3.71470802%" x2="87.7407849%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FF9800" offset="0%"></stop>
+            <stop stop-color="#FF3519" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-184.1%" y="-189.9%" width="468.2%" height="482.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.857959692   0 0 0 0 0.17942907   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-5" points="0.474330472 0 20.3962103 0 20.3962103 20.1875049 0.474330472 20.1875049"></polygon>
+        <linearGradient x1="1.30713296%" y1="0%" x2="98.692867%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFB72A" offset="0%"></stop>
+            <stop stop-color="#FF6B27" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-8" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" fill="#FFFFFF">
+            <tspan x="15" y="40">ppt</tspan>
+        </text>
+        <filter x="-33.2%" y="-33.3%" width="166.4%" height="178.8%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.923007246   0 0 0 0 0.19121741   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="班级管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程详情-预习-基本信息" transform="translate(-260.000000, -827.000000)">
+            <g id="编组-13备份-3" transform="translate(260.000000, 827.000000)">
+                <g id="编组-9">
+                    <g id="编组">
+                        <g>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M68.4729917,20.5055351 L68.4729917,55.5271096 C68.4729917,63.1808772 62.3495499,69.3859649 54.7964898,69.3859649 L13.6765019,69.3859649 C6.12344183,69.3859649 0,63.1808772 0,55.5271096 L0,13.8593509 C0,6.20508772 6.12344183,0 13.6765019,0 L48.2372663,0" id="Fill-1" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+                        </g>
+                        <g filter="url(#filter-4)" transform="translate(48.076781, 0.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <g id="Clip-4"></g>
+                            <path d="M0.474330472,0 L0.474330472,10.2606236 C0.474330472,15.7434629 4.86037976,20.1875049 10.2710764,20.1875049 L20.3962103,20.1875049 L0.474330472,0 Z" id="Fill-3" fill="url(#linearGradient-7)" mask="url(#mask-6)"></path>
+                        </g>
+                    </g>
+                    <g id="ppt" fill="#FFFFFF" fill-opacity="1">
+                        <use filter="url(#filter-9)" xlink:href="#text-8"></use>
+                        <use xlink:href="#text-8"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

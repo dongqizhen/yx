@@ -1,0 +1,11 @@
+:export {
+  menuText: #bfcbd9;
+  menuActiveText: #409EFF;
+  subMenuActiveText: #f4f4f5;
+  menuBg: linear-gradient(to left, #5ab0ff 0%, #0084ff 100%);
+  menuHover: #263445;
+  subMenuBg: #1f2d3d;
+  subMenuHover: #001528;
+  sideBarWidth: 210px;
+  boxShadow: 0px 0px 12px 0px rgba(202, 202, 202, 0.5);
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="56px" viewBox="0 0 60 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>编组 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.50765306%" y1="0%" x2="96.4923469%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFBB6B" offset="0%"></stop>
+            <stop stop-color="#FF7F33" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="86.7346939%" y1="100%" x2="13.2653061%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FF5F00" offset="0%"></stop>
+            <stop stop-color="#FF9E2B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="班级管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-273.000000, -453.000000)" id="编组">
+            <g transform="translate(273.000000, 453.000000)">
+                <polygon id="矩形备份-7" fill="url(#linearGradient-1)" points="1.13686838e-13 0 54 0 54 56 27.1613884 47.1583234 1.13686838e-13 56"></polygon>
+                <polygon id="路径-2备份" fill="url(#linearGradient-2)" points="60 7 54 0 54 7"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="17px" viewBox="0 0 50 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <g id="班级管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程表-无弹窗" transform="translate(-454.000000, -754.000000)">
+            <g id="矩形-2" transform="translate(454.000000, 752.000000)">
+                <polygon id="矩形" fill="#53D49D" points="0 2 50 2 42.8200051 10.5 50 19 0 19"></polygon>
+                <text id="已签到" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                    <tspan x="3" y="13">已签到</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

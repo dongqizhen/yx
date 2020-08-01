@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="70px" viewBox="0 0 200 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>矩形备份 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="6.54503184%" y1="50%" x2="45.0878096%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M25,10 L243,10 C256.807119,10 268,21.1928813 268,35 C268,48.8071187 256.807119,60 243,60 L25,60 C11.1928813,60 1.69088438e-15,48.8071187 0,35 C-1.69088438e-15,21.1928813 11.1928813,10 25,10 Z" id="path-2"></path>
+        <filter x="-5.6%" y="-30.0%" width="111.2%" height="160.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0639530046   0 0 0 0 0.341524402   0 0 0 0 0.716995018  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="班级管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -88.000000)" id="矩形备份-15">
+            <g transform="translate(-78.000000, 88.000000)">
+                <g id="矩形备份-14">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

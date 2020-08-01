@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="28px" viewBox="0 0 14 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>iconfont2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="登陆" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登陆3" transform="translate(-170.000000, -168.000000)" fill="#2A94FF" fill-rule="nonzero">
+            <g id="iconfont2" transform="translate(177.000000, 182.000000) scale(-1, 1) translate(-177.000000, -182.000000) translate(170.000000, 168.000000)">
+                <path d="M2.16274728,12.5452051 C2.19916926,12.6003455 2.24159734,12.6526614 2.29012787,12.701158 L12.3061094,22.709807 C12.6933259,23.0967845 13.3215248,23.0967845 13.7090946,22.709486 C14.0963431,22.3225086 14.0963431,21.6947815 13.7090946,21.3074831 L4.39508734,12 L13.7094157,2.692541 C14.0966643,2.30556353 14.0963431,1.67748339 13.7090946,1.29018496 C13.321846,0.903271679 12.6933259,0.903271679 12.3061094,1.29018496 L2.29350027,11.295817 C1.9509923,11.6374433 1.90866057,12.1606669 2.16274728,12.5452051 Z" id="路径" transform="translate(7.999692, 12.000000) scale(-1, 1) translate(-7.999692, -12.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

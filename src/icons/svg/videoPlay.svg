@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <g id="班级管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程详情-预习-详情" transform="translate(-319.000000, -938.000000)">
+            <g id="编组" transform="translate(319.000000, 938.000000)">
+                <circle id="椭圆形" fill="#FFFFFF" opacity="0.695079985" cx="35" cy="35" r="35"></circle>
+                <g id="kechengguanlitubiao-" transform="translate(25.074627, 17.761194)" fill="#4E4E4E" fill-rule="nonzero" opacity="0.795503162">
+                    <path d="M25.2859835,16.1643053 L3.30384625,0.397366321 C1.93905197,-0.580428343 0,0.357823154 0,1.99706715 L0,33.5237554 C0,35.1629994 1.93905197,36.1048457 3.30384625,35.1234562 L25.2859835,19.3601121 C26.3972095,18.5656539 26.3972095,16.9623583 25.2859835,16.1643053 Z" id="路径"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
